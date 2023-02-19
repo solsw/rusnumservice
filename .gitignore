@@ -13,3 +13,19 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+################################
+!Dockerfile.test
+certs-*/
+rns
+rns.exe
+rnsrvr
+rnsrvr.exe
+rusnumserver
+rusnumserver.exe
+rnc
+rnc.exe
+rnclnt
+rnclnt.exe
+rusnumclient
+rusnumclient.exe
